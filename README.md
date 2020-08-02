@@ -1,4 +1,4 @@
-# Marlin 3D Printer Firmware
+# Custom Marlin 3D Printer Firmware by Techknowdude made for a stock Ender 5 (standard lead screw) and a printed Ditan extruder: https://www.thingiverse.com/thing:3242039
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
